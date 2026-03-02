@@ -1,0 +1,1028 @@
+[
+    {
+        "query": "punishment for murder",
+        "relevant_sections": [
+            "302"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "what is murder under IPC",
+        "relevant_sections": [
+            "300"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "punishment for culpable homicide",
+        "relevant_sections": [
+            "304"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "attempt to commit murder",
+        "relevant_sections": [
+            "307"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "causing death by rash driving",
+        "relevant_sections": [
+            "304A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "dowry death definition and punishment",
+        "relevant_sections": [
+            "304B"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "definition of criminal conspiracy",
+        "relevant_sections": [
+            "120A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "punishment of criminal conspiracy",
+        "relevant_sections": [
+            "120B"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "cheating and dishonestly inducing delivery of property",
+        "relevant_sections": [
+            "420"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "cheating by personation",
+        "relevant_sections": [
+            "419"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "forgery for purpose of cheating",
+        "relevant_sections": [
+            "468"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "right of private defence of body and property",
+        "relevant_sections": [
+            "97"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "when does right of private defence extend to causing death",
+        "relevant_sections": [
+            "100"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "commencement of right of private defence",
+        "relevant_sections": [
+            "102"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "rape and punishment for rape",
+        "relevant_sections": [
+            "376"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "sexual harassment punishment",
+        "relevant_sections": [
+            "354A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "assault with intent to outrage modesty of woman",
+        "relevant_sections": [
+            "354"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "kidnapping from lawful guardianship",
+        "relevant_sections": [
+            "361"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "kidnapping or abducting to murder",
+        "relevant_sections": [
+            "364"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "robbery definition and punishment",
+        "relevant_sections": [
+            "392"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "dacoity punishment",
+        "relevant_sections": [
+            "395"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "theft punishment",
+        "relevant_sections": [
+            "379"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "house trespass definition",
+        "relevant_sections": [
+            "442"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "criminal breach of trust",
+        "relevant_sections": [
+            "405"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "criminal breach of trust by public servant",
+        "relevant_sections": [
+            "409"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "mischief causing damage to property",
+        "relevant_sections": [
+            "425"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "voluntarily causing grievous hurt",
+        "relevant_sections": [
+            "325"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "voluntarily causing hurt",
+        "relevant_sections": [
+            "323"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "abetment of a crime",
+        "relevant_sections": [
+            "107"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "abetment of offence punishable with death or imprisonment",
+        "relevant_sections": [
+            "115"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "sedition against government",
+        "relevant_sections": [
+            "124A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "waging war against government of India",
+        "relevant_sections": [
+            "121"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "conspiracy to wage war against government",
+        "relevant_sections": [
+            "121A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "wrongful confinement",
+        "relevant_sections": [
+            "340"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "wrongful restraint",
+        "relevant_sections": [
+            "339"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "defamation punishment",
+        "relevant_sections": [
+            "499",
+            "500"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "criminal intimidation",
+        "relevant_sections": [
+            "503"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "cruelty by husband or relatives of husband",
+        "relevant_sections": [
+            "498A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "counterfeiting currency or bank notes",
+        "relevant_sections": [
+            "489A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "public nuisance definition",
+        "relevant_sections": [
+            "268"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "killing another person intentionally",
+        "relevant_sections": [
+            "300",
+            "302"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "taking someone away without consent",
+        "relevant_sections": [
+            "359",
+            "361",
+            "362"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "illegal detention of a person",
+        "relevant_sections": [
+            "340",
+            "342"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "deceiving someone to get money",
+        "relevant_sections": [
+            "415",
+            "420"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "forging a document to defraud",
+        "relevant_sections": [
+            "463",
+            "468"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "breaking into someone's home",
+        "relevant_sections": [
+            "441",
+            "442",
+            "445"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "stealing someone's property secretly",
+        "relevant_sections": [
+            "378",
+            "379"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "hurting someone with a weapon",
+        "relevant_sections": [
+            "324",
+            "326"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "plotting to commit a crime with others",
+        "relevant_sections": [
+            "120A",
+            "120B"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "secretly watching or following a woman",
+        "relevant_sections": [
+            "354D"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "forcing a woman into marriage",
+        "relevant_sections": [
+            "366"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "setting fire to someone's property",
+        "relevant_sections": [
+            "435",
+            "436"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "making a false document with intent to harm",
+        "relevant_sections": [
+            "463",
+            "464"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "using force or threat to get property",
+        "relevant_sections": [
+            "383",
+            "384",
+            "390",
+            "392"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "helping someone escape from police custody",
+        "relevant_sections": [
+            "216",
+            "217",
+            "223"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "spreading disease by negligent act",
+        "relevant_sections": [
+            "269",
+            "270"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "assisting in suicide",
+        "relevant_sections": [
+            "305",
+            "306"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "damaging government property",
+        "relevant_sections": [
+            "425",
+            "426",
+            "427"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "impersonating a public servant",
+        "relevant_sections": [
+            "170",
+            "171"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "taking a bribe as a government official",
+        "relevant_sections": [
+            "161"
+        ],
+        "category": "paraphrase"
+    },
+    {
+        "query": "when can someone legally defend themselves by killing",
+        "relevant_sections": [
+            "100",
+            "97",
+            "99"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "mental state required for murder vs culpable homicide",
+        "relevant_sections": [
+            "299",
+            "300",
+            "302",
+            "304"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "difference between theft robbery and dacoity",
+        "relevant_sections": [
+            "378",
+            "390",
+            "391",
+            "392",
+            "395"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "what makes an act a criminal conspiracy",
+        "relevant_sections": [
+            "120A",
+            "120B",
+            "107"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "how is abetment different from attempt",
+        "relevant_sections": [
+            "107",
+            "511",
+            "109"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "what are general exceptions to criminal liability",
+        "relevant_sections": [
+            "76",
+            "79",
+            "80",
+            "81",
+            "82",
+            "83",
+            "84",
+            "85"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "criminal liability of children and minors",
+        "relevant_sections": [
+            "82",
+            "83"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "when is consent a valid defence to bodily harm",
+        "relevant_sections": [
+            "87",
+            "88",
+            "89",
+            "90"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "involuntary act due to intoxication as defence",
+        "relevant_sections": [
+            "85",
+            "86"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "when can a person not be held liable due to insanity",
+        "relevant_sections": [
+            "84"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "what offences are considered against the state",
+        "relevant_sections": [
+            "121",
+            "121A",
+            "122",
+            "123",
+            "124A"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "types of offences relating to elections and voting",
+        "relevant_sections": [
+            "171B",
+            "171C",
+            "171E",
+            "171F"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "sedition vs hate speech in IPC",
+        "relevant_sections": [
+            "124A",
+            "153A",
+            "295A"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "obstruction of justice and evidence tampering",
+        "relevant_sections": [
+            "192",
+            "193",
+            "194",
+            "201",
+            "202"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "offences related to religion and places of worship",
+        "relevant_sections": [
+            "295",
+            "295A",
+            "296",
+            "297"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "trafficking and kidnapping for ransom",
+        "relevant_sections": [
+            "364A",
+            "365",
+            "366",
+            "370"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "cyberspace acts that constitute forgery under IPC",
+        "relevant_sections": [
+            "463",
+            "464",
+            "465",
+            "468",
+            "469"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "cruelty and domestic violence against women",
+        "relevant_sections": [
+            "498A",
+            "304B",
+            "354",
+            "375"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "offences related to false weight and adulteration of food",
+        "relevant_sections": [
+            "264",
+            "265",
+            "272",
+            "273"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "punishment for attempt to commit any offence",
+        "relevant_sections": [
+            "511"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "grievous hurt definition",
+        "relevant_sections": [
+            "320"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "what constitutes assault under IPC",
+        "relevant_sections": [
+            "351"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "extortion definition and punishment",
+        "relevant_sections": [
+            "383",
+            "384"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "stalking under IPC",
+        "relevant_sections": [
+            "354D"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "voyeurism punishment",
+        "relevant_sections": [
+            "354C"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "acid attack punishment",
+        "relevant_sections": [
+            "326A",
+            "326B"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "gang rape punishment",
+        "relevant_sections": [
+            "376D"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "rape by person in authority",
+        "relevant_sections": [
+            "376C"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "hurt by dangerous weapons",
+        "relevant_sections": [
+            "324"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "culpable homicide definition",
+        "relevant_sections": [
+            "299"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "abetment of suicide",
+        "relevant_sections": [
+            "306"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "child below 7 years cannot be punished",
+        "relevant_sections": [
+            "82"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "punishment for hurt under provocation",
+        "relevant_sections": [
+            "334"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "abandoning child under 12 years",
+        "relevant_sections": [
+            "317"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "concealment of birth by secret burial",
+        "relevant_sections": [
+            "318"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "false evidence in judicial proceedings",
+        "relevant_sections": [
+            "193"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "public servant taking gratification other than legal remuneration",
+        "relevant_sections": [
+            "161"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "criminal trespass definition",
+        "relevant_sections": [
+            "441"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "lurking house trespass by night",
+        "relevant_sections": [
+            "444"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "receiving stolen property",
+        "relevant_sections": [
+            "411"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "rioting punishment",
+        "relevant_sections": [
+            "147"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "unlawful assembly definition",
+        "relevant_sections": [
+            "141"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "affray definition and punishment",
+        "relevant_sections": [
+            "159",
+            "160"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "promoting enmity between groups on grounds of religion",
+        "relevant_sections": [
+            "153A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "outraging religious feelings",
+        "relevant_sections": [
+            "295A"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "uttering words to wound religious feelings",
+        "relevant_sections": [
+            "298"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "kidnapping from India",
+        "relevant_sections": [
+            "360"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "abducting to subject a person to grievous hurt",
+        "relevant_sections": [
+            "365"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "using arms or bombs to wage war",
+        "relevant_sections": [
+            "122"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "concealing conspiracy to wage war",
+        "relevant_sections": [
+            "123"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "attempt to commit suicide",
+        "relevant_sections": [
+            "309"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "making false statement on oath or solemn affirmation",
+        "relevant_sections": [
+            "191",
+            "193"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "breach of contract to attend personally",
+        "relevant_sections": [
+            "491"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "printing obscene material",
+        "relevant_sections": [
+            "292"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "act causing harm to prevent greater harm",
+        "relevant_sections": [
+            "81"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "private defence right against property",
+        "relevant_sections": [
+            "97",
+            "103",
+            "104",
+            "105"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "joint liability of members in unlawful assembly",
+        "relevant_sections": [
+            "141",
+            "149"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "doctrine of common intention",
+        "relevant_sections": [
+            "34"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "acts done by several persons in furtherance of common intention",
+        "relevant_sections": [
+            "34",
+            "35"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "master servant liability for acts of servants",
+        "relevant_sections": [
+            "154",
+            "155",
+            "156"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "what happens when person does act in good faith",
+        "relevant_sections": [
+            "79",
+            "88",
+            "89"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "legal definition of property in context of theft",
+        "relevant_sections": [
+            "378",
+            "22"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "difference between extortion and robbery",
+        "relevant_sections": [
+            "383",
+            "390",
+            "391"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "deceit to make someone transfer property through documents",
+        "relevant_sections": [
+            "420",
+            "463",
+            "468"
+        ],
+        "category": "conceptual"
+    },
+    {
+        "query": "punishment for dacoity with murder",
+        "relevant_sections": [
+            "396"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "making a counterfeit seal or mark",
+        "relevant_sections": [
+            "254",
+            "255"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "IPC provisions on abortion",
+        "relevant_sections": [
+            "312",
+            "313",
+            "314"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "bigamy under IPC",
+        "relevant_sections": [
+            "494",
+            "495"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "enticing or taking away a married woman",
+        "relevant_sections": [
+            "498"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "making false claim in court",
+        "relevant_sections": [
+            "209"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "public servant disobeying the law",
+        "relevant_sections": [
+            "166"
+        ],
+        "category": "exact"
+    },
+    {
+        "query": "punishment for lurking house trespass to commit offence",
+        "relevant_sections": [
+            "443",
+            "444",
+            "445"
+        ],
+        "category": "exact"
+    }
+]

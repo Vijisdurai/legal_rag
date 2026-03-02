@@ -1,0 +1,10 @@
+pdfplumber
+pytesseract
+pdf2image
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+streamlit
+matplotlib
+tabulate

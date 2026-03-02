@@ -1,0 +1,10 @@
+{
+    "Vector-Only": {
+        "Original R@5": 0.8484848484848485,
+        "Naive QR R@5": 0.7803030303030303
+    },
+    "BM25-Only": {
+        "Original R@5": 0.0,
+        "Naive QR R@5": 0.0
+    }
+}

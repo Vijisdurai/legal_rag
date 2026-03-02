@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data / large binary index files
+data/faiss_index/
+data/*.pkl
+data/*.bin
+data/*.index
+
+# Log files
+*.log
+rebuild.log
+tfidf_build.log
+streamlit_err.txt
+streamlit_log.txt
+streamlit_out.txt
+
+# Test / evaluation output text files
+eval_full.txt
+eval_results.txt
+pipeline_test.txt
+test_output.txt
+test_baseline.txt
+test_bm25.txt
+test_hybrid.txt
+test_mmr.txt
+compute_stats_output.txt
+
+# IDE / OS
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# Secrets / environment
+.env
+*.env
+secrets.toml

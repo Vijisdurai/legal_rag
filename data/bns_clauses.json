@@ -1,0 +1,582 @@
+[
+  {
+    "section_number": "1",
+    "title": "Short title, extent and commencement",
+    "chapter": 1,
+    "chapter_title": "Preliminary",
+    "text": "1. Short title, extent and commencement.\nThis Sanhita may be called the Bharatiya Nyaya Sanhita, 2023. It extends to the whole of India. It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.",
+    "length": 255,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "2",
+    "title": "Definitions",
+    "chapter": 1,
+    "chapter_title": "Preliminary",
+    "text": "2. Definitions.\nIn this Sanhita, unless the context otherwise requires, the following words and expressions are used in the following senses: 'act' denotes as well a series of acts as a single act; 'animal' denotes any living creature, other than a human being.",
+    "length": 261,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "4",
+    "title": "Punishments",
+    "chapter": 2,
+    "chapter_title": "Punishments",
+    "text": "4. Punishments.\nThe punishments to which offenders are liable under the provisions of this Sanhita are: death; imprisonment for life; imprisonment, which is of two descriptions, namely — rigorous, that is, with hard labour; simple; forfeiture of property; fine; community service.",
+    "length": 280,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "4",
+    "title": "Community service as punishment",
+    "chapter": 2,
+    "chapter_title": "Punishments",
+    "text": "4. Community service as punishment.\nCommunity service is a new form of punishment introduced by the Bharatiya Nyaya Sanhita 2023. It refers to unpaid work that an offender is required to perform as a way to give back to the community, as an alternative to imprisonment or fine for minor offences. This is a significant departure from the Indian Penal Code, 1860, which did not recognize community service as a form of punishment.",
+    "length": 429,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "9",
+    "title": "Solitary confinement",
+    "chapter": 2,
+    "chapter_title": "Punishments",
+    "text": "9. Solitary confinement.\nWhenever any person is convicted of an offence for which under this Sanhita the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence, order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced.",
+    "length": 330,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "14",
+    "title": "Act of a person bound by law",
+    "chapter": 3,
+    "chapter_title": "General Exceptions",
+    "text": "14. Act of a person bound by law.\nNothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law, in good faith believes himself to be, bound by law to do it.",
+    "length": 227,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "22",
+    "title": "Act of a person of unsound mind",
+    "chapter": 3,
+    "chapter_title": "General Exceptions",
+    "text": "22. Act of a person of unsound mind.\nNothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.",
+    "length": 256,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "34",
+    "title": "Right of private defence of body — when death may be caused",
+    "chapter": 3,
+    "chapter_title": "General Exceptions",
+    "text": "34. Right of private defence of body — when death may be caused.\nThe right of private defence of the body extends, under the restrictions mentioned in section 33, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the following descriptions: (1) an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault; (2) an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault; (3) an assault with the intention of committing rape.",
+    "length": 631,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "35",
+    "title": "Right of private defence of property — when death may be caused",
+    "chapter": 3,
+    "chapter_title": "General Exceptions",
+    "text": "35. Right of private defence of property — when death may be caused.\nThe right of private defence of property extends, under the restrictions mentioned in section 33, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence... is robbery, house-breaking by night, mischief by fire or explosive substance, theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.",
+    "length": 538,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "45",
+    "title": "Abetment of a thing",
+    "chapter": 4,
+    "chapter_title": "Abetment, Criminal Conspiracy And Attempt",
+    "text": "45. Abetment of a thing.\nA person abets the doing of a thing, who — first, instigates any person to do that thing; or secondly, engages with one or more other person or persons in any conspiracy for the doing of that thing; or thirdly, intentionally aids, by any act or illegal omission, the doing of that thing.",
+    "length": 312,
+    "corpus": "bns",
+    "ipc_equivalent": "107"
+  },
+  {
+    "section_number": "61",
+    "title": "Criminal conspiracy",
+    "chapter": 4,
+    "chapter_title": "Abetment, Criminal Conspiracy And Attempt",
+    "text": "61. Criminal conspiracy.\nWhen two or more persons agree to do, or cause to be done — (a) an illegal act, or (b) an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy. A person shall be punished for criminal conspiracy if he commits a crime in pursuance of such conspiracy.",
+    "length": 318,
+    "corpus": "bns",
+    "ipc_equivalent": "120B"
+  },
+  {
+    "section_number": "62",
+    "title": "Punishment for criminal conspiracy",
+    "chapter": 4,
+    "chapter_title": "Abetment, Criminal Conspiracy And Attempt",
+    "text": "62. Punishment for criminal conspiracy.\nWhoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Sanhita for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.",
+    "length": 375,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "63",
+    "title": "Rape",
+    "chapter": 5,
+    "chapter_title": "Offences Against Woman And Child",
+    "text": "63. Rape.\nA man is said to commit rape if he — (a) penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a woman or makes her to do so with him or any other person; or (b) inserts, to any extent, any object or a part of the body, not being the penis, into the vagina, the urethra or anus of a woman or makes her to do so with him or any other person; or (c) manipulates any part of the body of a woman so as to cause penetration into the vagina, urethra, anus or any part of body of such woman or makes her to do so with him or any other person; or (d) applies his mouth to the vagina, anus, urethra of a woman or makes her to do so with him or any other person.",
+    "length": 688,
+    "corpus": "bns",
+    "ipc_equivalent": "375"
+  },
+  {
+    "section_number": "64",
+    "title": "Punishment for rape",
+    "chapter": 5,
+    "chapter_title": "Offences Against Woman And Child",
+    "text": "64. Punishment for rape.\nWhoever, except in the cases provided for in sub-section (2), commits rape, shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. Whoever, commits rape on a woman under sixteen years of age shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life, and shall also be liable to fine.",
+    "length": 618,
+    "corpus": "bns",
+    "ipc_equivalent": "376"
+  },
+  {
+    "section_number": "74",
+    "title": "Assault or use of criminal force to woman with intent to outrage her modesty",
+    "chapter": 5,
+    "chapter_title": "Offences Against Woman And Child",
+    "text": "74. Assault or use of criminal force to woman with intent to outrage her modesty.\nWhoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+    "length": 402,
+    "corpus": "bns",
+    "ipc_equivalent": "354"
+  },
+  {
+    "section_number": "75",
+    "title": "Sexual harassment",
+    "chapter": 5,
+    "chapter_title": "Offences Against Woman And Child",
+    "text": "75. Sexual harassment.\nA man committing any of the following acts — (i) physical contact and advances involving unwelcome and explicit sexual overtures; or (ii) a demand or request for sexual favours; or (iii) showing pornography against the will of a woman; or (iv) making sexually coloured remarks, shall be guilty of the offence of sexual harassment. Whoever commits the offence of sexual harassment shall be punished with rigorous imprisonment for a term which may extend to three years, or with fine, or with both.",
+    "length": 519,
+    "corpus": "bns",
+    "ipc_equivalent": "354A"
+  },
+  {
+    "section_number": "78",
+    "title": "Stalking",
+    "chapter": 5,
+    "chapter_title": "Offences Against Woman And Child",
+    "text": "78. Stalking.\nAny man who follows a woman and contacts, or attempts to contact such woman to foster personal interaction repeatedly despite a clear indication of disinterest by such woman, or monitors the use by a woman of the internet, email or any other form of electronic communication, commits the offence of stalking. A man who commits the offence of stalking shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; and be punished on a second or subsequent conviction, with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.",
+    "length": 691,
+    "corpus": "bns",
+    "ipc_equivalent": "354D"
+  },
+  {
+    "section_number": "80",
+    "title": "Dowry death",
+    "chapter": 5,
+    "chapter_title": "Offences Against Woman And Child",
+    "text": "80. Dowry death.\nWhere the death of a woman is caused by any burns or bodily injury or occurs under suspicious circumstances within seven years of marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called 'dowry death', and such husband or relative shall be deemed to have caused her death. Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.",
+    "length": 613,
+    "corpus": "bns",
+    "ipc_equivalent": "304B"
+  },
+  {
+    "section_number": "85",
+    "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "chapter": 5,
+    "chapter_title": "Offences Against Woman And Child",
+    "text": "85. Husband or relative of husband of a woman subjecting her to cruelty.\nWhoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. For the purposes of this section, cruelty means — (a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or (b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.",
+    "length": 801,
+    "corpus": "bns",
+    "ipc_equivalent": "498A"
+  },
+  {
+    "section_number": "100",
+    "title": "Culpable homicide",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "100. Culpable homicide.\nWhoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide. Explanation: A person who causes bodily injury to another who is labouring under a disorder, disease or bodily infirmity, and thereby accelerates the death of that other, shall be deemed to have caused his death.",
+    "length": 501,
+    "corpus": "bns",
+    "ipc_equivalent": "299"
+  },
+  {
+    "section_number": "101",
+    "title": "Murder",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "101. Murder.\nCulpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or — secondly, if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or — thirdly, if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death, or — fourthly, if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death.",
+    "length": 632,
+    "corpus": "bns",
+    "ipc_equivalent": "300"
+  },
+  {
+    "section_number": "103",
+    "title": "Punishment for murder",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "103. Punishment for murder.\nWhoever commits murder shall be punished with death or with imprisonment for life, and shall also be liable to fine. When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground each member of such group shall be punished with death or with imprisonment for life or with imprisonment of either description for a term which shall not be less than seven years, and shall also be liable to fine.",
+    "length": 547,
+    "corpus": "bns",
+    "ipc_equivalent": "302"
+  },
+  {
+    "section_number": "105",
+    "title": "Culpable homicide not amounting to murder",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "105. Culpable homicide not amounting to murder.\nWhoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. If the act by which the death is caused is done with the intention of causing death or of causing such bodily injury as is likely to cause death, the offender shall be punished with imprisonment of life or with imprisonment for a term which may extend to ten years and shall also be liable to fine.",
+    "length": 564,
+    "corpus": "bns",
+    "ipc_equivalent": "304"
+  },
+  {
+    "section_number": "106",
+    "title": "Causing death by negligence",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "106. Causing death by negligence.\nWhoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, the registered medical practitioner shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine. Whoever causes the death of any person by rash and negligent driving of vehicle, not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate, shall be punished with imprisonment of either description for a term of ten years, and shall also be liable to fine.",
+    "length": 849,
+    "corpus": "bns",
+    "ipc_equivalent": "304A"
+  },
+  {
+    "section_number": "108",
+    "title": "Abetment of suicide of child or person of unsound mind",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "108. Abetment of suicide of child or person of unsound mind.\nIf any person under eighteen years of age, any insane person, any delirious person, any idiot, or any person in a state of intoxication commits suicide, whoever abets the commission of such suicide, shall be punished with death or imprisonment for life, or imprisonment for a term not exceeding ten years, and shall also be liable to fine.",
+    "length": 400,
+    "corpus": "bns",
+    "ipc_equivalent": "306"
+  },
+  {
+    "section_number": "109",
+    "title": "Attempt to commit suicide to compel or restrain exercise of lawful power",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "109. Attempt to commit suicide to compel or restrain exercise of lawful power.\nWhoever attempts to commit suicide with the intent to compel or restrain any public servant to do or abstain from doing any act in the discharge of his official duties, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both.",
+    "length": 359,
+    "corpus": "bns",
+    "ipc_equivalent": "307"
+  },
+  {
+    "section_number": "111",
+    "title": "Organised crime",
+    "chapter": 6,
+    "chapter_title": "Organised Crime",
+    "text": "111. Organised crime.\nWhoever commits organised crime shall be punished with imprisonment for life, or with death if the offence causes death; and shall also be liable to fine which shall not be less than ten lakh rupees. 'Organised crime' means any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offences, cyber-crimes, trafficking in persons, drugs, or arms by a person or a syndicate of persons using or threatening violence, intimidation, coercion or any other unlawful means to obtain undue economic or other advantage.",
+    "length": 605,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "112",
+    "title": "Petty organised crime",
+    "chapter": 6,
+    "chapter_title": "Organised Crime",
+    "text": "112. Petty organised crime.\nWhoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime. Whoever commits petty organised crime shall be punished with imprisonment of either description for a term which shall not be less than one year, but may extend to seven years and shall also be liable to fine.",
+    "length": 543,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "113",
+    "title": "Terrorist act",
+    "chapter": 6,
+    "chapter_title": "Terrorist Act",
+    "text": "113. Terrorist act.\nWhoever does any act with the intent to threaten or likely to threaten the unity, integrity, sovereignty, security, or economic security of India, or with the intent to strike terror or likely to strike terror in the people or any section of the people in India or in any foreign country, — (a) by using bombs, dynamite or other explosive substances or inflammable substances or firearms or other lethal weapons or poisonous or noxious gases or other chemicals or by any other substances (whether biological, radioactive, nuclear or otherwise) of a hazardous nature; or (b) by attacking the financial systems including banking systems, currency systems, monetary systems; or (c) by cyber-crimes commits a terrorist act.",
+    "length": 739,
+    "corpus": "bns",
+    "ipc_equivalent": null
+  },
+  {
+    "section_number": "114",
+    "title": "Hurt",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "114. Hurt.\nWhoever causes bodily pain, disease or infirmity to any person is said to cause hurt.",
+    "length": 96,
+    "corpus": "bns",
+    "ipc_equivalent": "320"
+  },
+  {
+    "section_number": "115",
+    "title": "Voluntarily causing hurt",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "115. Voluntarily causing hurt.\nWhoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is grievous hurt, and if the hurt which he causes is grievous hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+    "length": 375,
+    "corpus": "bns",
+    "ipc_equivalent": "323"
+  },
+  {
+    "section_number": "116",
+    "title": "Voluntarily causing grievous hurt",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "116. Voluntarily causing grievous hurt.\nWhoever voluntarily causes grievous hurt shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "length": 216,
+    "corpus": "bns",
+    "ipc_equivalent": "325"
+  },
+  {
+    "section_number": "118",
+    "title": "Voluntarily causing hurt by dangerous weapons or means",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "118. Voluntarily causing hurt by dangerous weapons or means.\nWhoever, except in the case provided for by section 121, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "length": 703,
+    "corpus": "bns",
+    "ipc_equivalent": "326"
+  },
+  {
+    "section_number": "124",
+    "title": "Voluntarily causing grievous hurt by use of acid",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "124. Voluntarily causing grievous hurt by use of acid.\nWhoever voluntarily causes grievous hurt by use of acid or by use of any corrosive substance or burning substance or by the use of any explosive substance or by administering any substance which is deleterious to the human body or by any means to cause grievous hurt shall be punished with imprisonment for life, and a fine. The fine shall be just and reasonable and shall be paid to the victim.",
+    "length": 450,
+    "corpus": "bns",
+    "ipc_equivalent": "326A"
+  },
+  {
+    "section_number": "126",
+    "title": "Wrongful restraint",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "126. Wrongful restraint.\nWhoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person.",
+    "length": 216,
+    "corpus": "bns",
+    "ipc_equivalent": "339"
+  },
+  {
+    "section_number": "127",
+    "title": "Wrongful confinement",
+    "chapter": 6,
+    "chapter_title": "Offences Affecting The Human Body",
+    "text": "127. Wrongful confinement.\nWhoever wrongfully restrains any person in such a manner as to prevent that person from proceeding beyond certain circumscribing limits, is said wrongfully to confine that person.",
+    "length": 206,
+    "corpus": "bns",
+    "ipc_equivalent": "341"
+  },
+  {
+    "section_number": "147",
+    "title": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India",
+    "chapter": 5,
+    "chapter_title": "Offences Against The State",
+    "text": "147. Waging, or attempting to wage war, or abetting waging of war, against the Government of India.\nWhoever wages war against the Government of India, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or imprisonment for life and shall also be liable to fine.",
+    "length": 302,
+    "corpus": "bns",
+    "ipc_equivalent": "121"
+  },
+  {
+    "section_number": "148",
+    "title": "Conspiracy to commit offences punishable by section 147",
+    "chapter": 5,
+    "chapter_title": "Offences Against The State",
+    "text": "148. Conspiracy to commit offences punishable by section 147.\nWhoever within or without India conspires to commit any of the offences punishable by section 147, or conspires to overawe, by means of criminal force or show of criminal force, the Central Government or any State Government, shall be punished with imprisonment for life, or with imprisonment of either description which may extend to ten years, and shall also be liable to fine.",
+    "length": 441,
+    "corpus": "bns",
+    "ipc_equivalent": "121A"
+  },
+  {
+    "section_number": "152",
+    "title": "Act endangering sovereignty, unity and integrity of India",
+    "chapter": 5,
+    "chapter_title": "Offences Against The State",
+    "text": "152. Act endangering sovereignty, unity and integrity of India.\nWhoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial mean, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "length": 646,
+    "corpus": "bns",
+    "ipc_equivalent": "124A"
+  },
+  {
+    "section_number": "178",
+    "title": "Counterfeiting coin",
+    "chapter": 12,
+    "chapter_title": "Offences Relating To Coin And Government Stamps",
+    "text": "178. Counterfeiting coin.\nWhoever counterfeits, or knowingly performs any part of the process of counterfeiting, any coin which is for the time being current in India, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "length": 332,
+    "corpus": "bns",
+    "ipc_equivalent": "489A"
+  },
+  {
+    "section_number": "189",
+    "title": "Unlawful assembly",
+    "chapter": 11,
+    "chapter_title": "Offences Against The Public Tranquillity",
+    "text": "189. Unlawful assembly.\nAn assembly of five or more persons is designated an unlawful assembly, if the common object of the persons composing that assembly is — (1) to overawe by criminal force, or show of criminal force, any public servant in the exercise of the lawful power of such public servant; or (2) to resist the execution of any law, or of any legal process; or (3) to commit any offence; or (4) by means of criminal force, or show of criminal force, to any person to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or (5) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.",
+    "length": 894,
+    "corpus": "bns",
+    "ipc_equivalent": "141"
+  },
+  {
+    "section_number": "191",
+    "title": "Rioting",
+    "chapter": 11,
+    "chapter_title": "Offences Against The Public Tranquillity",
+    "text": "191. Rioting.\nWhenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly, every member of such assembly is guilty of the offence of rioting. Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "length": 378,
+    "corpus": "bns",
+    "ipc_equivalent": "148"
+  },
+  {
+    "section_number": "285",
+    "title": "Public nuisance",
+    "chapter": 14,
+    "chapter_title": "Offences Affecting Public Health, Safety, Convenience, Decency And Morals",
+    "text": "285. Public nuisance.\nA person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right.",
+    "length": 385,
+    "corpus": "bns",
+    "ipc_equivalent": "268"
+  },
+  {
+    "section_number": "303",
+    "title": "Theft",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "303. Theft.\nWhoever intending to take dishonestly any moveable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+    "length": 208,
+    "corpus": "bns",
+    "ipc_equivalent": "378"
+  },
+  {
+    "section_number": "304",
+    "title": "Punishment for theft",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "304. Punishment for theft.\nWhoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "length": 178,
+    "corpus": "bns",
+    "ipc_equivalent": "379"
+  },
+  {
+    "section_number": "308",
+    "title": "Extortion",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "308. Extortion.\nWhoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security, or anything signed or sealed which may be converted into a valuable security, commits extortion.",
+    "length": 323,
+    "corpus": "bns",
+    "ipc_equivalent": "383"
+  },
+  {
+    "section_number": "309",
+    "title": "Robbery",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "309. Robbery.\nIn all robbery there is either theft or extortion. To constitute robbery, theft must be accompanied by — (1) a voluntary causing or attempting to cause to any person death or hurt or wrongful restraint; or (2) fear of instant death or of instant hurt or of instant wrongful restraint. Extortion is robbery if the offender commits the extortion in the person's presence, and puts that person in fear of instant death, or instant hurt, and causes that person to deliver up the thing extorted.",
+    "length": 504,
+    "corpus": "bns",
+    "ipc_equivalent": "392"
+  },
+  {
+    "section_number": "310",
+    "title": "Punishment for robbery",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "310. Punishment for robbery.\nWhoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+    "length": 301,
+    "corpus": "bns",
+    "ipc_equivalent": "390"
+  },
+  {
+    "section_number": "311",
+    "title": "Dacoity",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "311. Dacoity.\nWhen five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit dacoity.",
+    "length": 343,
+    "corpus": "bns",
+    "ipc_equivalent": "391"
+  },
+  {
+    "section_number": "312",
+    "title": "Punishment for dacoity",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "312. Punishment for dacoity.\nWhoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "length": 204,
+    "corpus": "bns",
+    "ipc_equivalent": "395"
+  },
+  {
+    "section_number": "316",
+    "title": "Criminal breach of trust",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "316. Criminal breach of trust.\nWhoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust.",
+    "length": 521,
+    "corpus": "bns",
+    "ipc_equivalent": "405"
+  },
+  {
+    "section_number": "318",
+    "title": "Cheating",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "318. Cheating.\nWhoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.",
+    "length": 480,
+    "corpus": "bns",
+    "ipc_equivalent": "420"
+  },
+  {
+    "section_number": "319",
+    "title": "Cheating by personation",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "319. Cheating by personation.\nA person is said to cheat by personation if he cheats by pretending to be some other person, or by knowingly substituting one person for another, or representing that he or any other person is a person other than he or such other person really is.",
+    "length": 277,
+    "corpus": "bns",
+    "ipc_equivalent": "419"
+  },
+  {
+    "section_number": "323",
+    "title": "Mischief",
+    "chapter": 17,
+    "chapter_title": "Offences Against Property",
+    "text": "323. Mischief.\nWhoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief.",
+    "length": 335,
+    "corpus": "bns",
+    "ipc_equivalent": "425"
+  },
+  {
+    "section_number": "334",
+    "title": "Forgery",
+    "chapter": 18,
+    "chapter_title": "Offences Relating To Documents And Property Marks",
+    "text": "334. Forgery.\nWhoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+    "length": 398,
+    "corpus": "bns",
+    "ipc_equivalent": "463"
+  },
+  {
+    "section_number": "336",
+    "title": "Forgery for purpose of cheating",
+    "chapter": 18,
+    "chapter_title": "Offences Relating To Documents And Property Marks",
+    "text": "336. Forgery for purpose of cheating.\nWhoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "length": 297,
+    "corpus": "bns",
+    "ipc_equivalent": "469"
+  },
+  {
+    "section_number": "351",
+    "title": "Criminal intimidation",
+    "chapter": 19,
+    "chapter_title": "Criminal Intimidation, Insult And Annoyance",
+    "text": "351. Criminal intimidation.\nWhoever threatens another with any injury to his person, reputation or property, or to the person or reputation or property of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation. Punishment: imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "length": 588,
+    "corpus": "bns",
+    "ipc_equivalent": "506"
+  },
+  {
+    "section_number": "356",
+    "title": "Defamation",
+    "chapter": 19,
+    "chapter_title": "Criminal Intimidation, Insult And Annoyance",
+    "text": "356. Defamation.\nWhoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.",
+    "length": 366,
+    "corpus": "bns",
+    "ipc_equivalent": "500"
+  }
+]

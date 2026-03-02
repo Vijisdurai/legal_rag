@@ -1,0 +1,104 @@
+﻿[dual_corpus] IPC: 575 clauses | BNS: 58 clauses
+[vector_index] Loading FAISS index from G:\apps\Hybrid-MMR Legal RAG Project\legal_rag\retrieval\..\indexing\..\data\vector_index.faiss
+[vector_index] Loading embeddings from G:\apps\Hybrid-MMR Legal RAG Project\legal_rag\retrieval\..\indexing\..\data\embeddings.npy
+[vector_index] Loading model: all-MiniLM-L6-v2
+[bm25_index] Loaded BM25 index from G:\apps\Hybrid-MMR Legal RAG Project\legal_rag\retrieval\..\indexing\..\data\bm25_index.pkl
+{
+  "dense": [
+    {
+      "query": "cheating and dishonestly inducing delivery of property",
+      "tier": "Unknown",
+      "gt": "\u00a7420: 420. Cheating and dishonestly inducing delivery of property.\nWhoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the ...",
+      "retrieved": "\u00a7318: 318. Cheating.\nWhoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any proper..."
+    },
+    {
+      "query": "voluntarily causing hurt",
+      "tier": "Unknown",
+      "gt": "\u00a7323: 323. Mischief.\nWhoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change i...",
+      "retrieved": "\u00a7321: 321. Voluntarily causing hurt.\nWhoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does ther..."
+    },
+    {
+      "query": "conspiracy to wage war against government",
+      "tier": "Unknown",
+      "gt": "\u00a7121A: 121A. Conspiracy to commit offences punishable by section 121.\nWhoever within or without India conspires to commit any of the offences punishable by section 121, or conspires to overawe, by means of c...",
+      "retrieved": "\u00a7121: 121. Waging, or attempting to wage war, or abetting waging of war, against the Government of India.\nWhoever wages war against the Government of India, or attempts to wage such war, or abets the waging..."
+    },
+    {
+      "query": "killing another person intentionally",
+      "tier": "Unknown",
+      "gt": "\u00a7300: 300. Murder.\nExcept in the cases hereinafter excepted, culpable homicide is murder...",
+      "retrieved": "\u00a7101: 101. Murder.\nCulpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or \u2014 secondly, if it is done with the intention of causing such bodily in..."
+    },
+    {
+      "query": "taking someone away without consent",
+      "tier": "Unknown",
+      "gt": "\u00a7359: 359. Kidnapping.\nKidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship....",
+      "retrieved": "\u00a7364: 364. Kidnapping or abducting in order to murder.\nWhoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shal..."
+    }
+  ],
+  "bm25": [
+    {
+      "query": "voluntarily causing hurt",
+      "tier": "Unknown",
+      "gt": "\u00a7323: 323. Mischief.\nWhoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change i...",
+      "retrieved": "\u00a7321: 321. Voluntarily causing hurt.\nWhoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does ther..."
+    },
+    {
+      "query": "abetment of a crime",
+      "tier": "Unknown",
+      "gt": "\u00a7107: 107. Abetment of a thing.\nA person abets the doing of a thing, who: Instigates any person to do that thing; or\nEngages with one or more other person or persons in any conspiracy for the doing of that ...",
+      "retrieved": "\u00a7112: 112. Petty organised crime.\nWhoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting o..."
+    },
+    {
+      "query": "conspiracy to wage war against government",
+      "tier": "Unknown",
+      "gt": "\u00a7121A: 121A. Conspiracy to commit offences punishable by section 121.\nWhoever within or without India conspires to commit any of the offences punishable by section 121, or conspires to overawe, by means of c...",
+      "retrieved": "\u00a7147: 147. Waging, or attempting to wage war, or abetting waging of war, against the Government of India.\nWhoever wages war against the Government of India, or attempts to wage such war, or abets the waging..."
+    },
+    {
+      "query": "wrongful restraint",
+      "tier": "Unknown",
+      "gt": "\u00a7339: 339. Wrongful restraint.\nWhoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restr...",
+      "retrieved": "\u00a7440: 440. Mischief committed after preparation made for causing death or hurt.\nWhoever commits mischief, having made preparation for causing to any person death, or hurt, or wrongful restraint, or fear of ..."
+    },
+    {
+      "query": "killing another person intentionally",
+      "tier": "Unknown",
+      "gt": "\u00a7300: 300. Murder.\nExcept in the cases hereinafter excepted, culpable homicide is murder...",
+      "retrieved": "\u00a7428: 428. Mischief by killing or maiming animal of the value of ten rupees.\nWhoever commits mischief by killing, poisoning, maiming or rendering useless any animals or animal of the value of the ten rupees..."
+    }
+  ],
+  "hybrid": [
+    {
+      "query": "right of private defence of body and property",
+      "tier": "Unknown",
+      "gt": "\u00a797: 97. Right of private defence of the body and of property.\nEvery person has a right, subject to the restrictions contained in section 99, to defend: His own body, and the body of any other person, agai...",
+      "retrieved": "\u00a7105: 105. Culpable homicide not amounting to murder.\nWhoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term..."
+    },
+    {
+      "query": "house trespass definition",
+      "tier": "Unknown",
+      "gt": "\u00a7442: 442. House-trespass.\nWhoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or any building used as a place for worship, or as a place...",
+      "retrieved": "\u00a76: 6. Definitions in the Code to be understood subject to exceptions.\nThroughout this Code every definition of an Offence, every penal provision and every illustration of every such definition or penal p..."
+    },
+    {
+      "query": "mischief causing damage to property",
+      "tier": "Unknown",
+      "gt": "\u00a7425: 425. Mischief.\nWhoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change i...",
+      "retrieved": "\u00a76: 6. Definitions in the Code to be understood subject to exceptions.\nThroughout this Code every definition of an Offence, every penal provision and every illustration of every such definition or penal p..."
+    },
+    {
+      "query": "voluntarily causing grievous hurt",
+      "tier": "Unknown",
+      "gt": "\u00a7325: 325. Punishment for voluntarily causing grievous hurt.\nWhoever, except in the case provided for by section 335, voluntarily causes grievous hurt, shall be punished with imprisonment of either descript...",
+      "retrieved": "\u00a76: 6. Definitions in the Code to be understood subject to exceptions.\nThroughout this Code every definition of an Offence, every penal provision and every illustration of every such definition or penal p..."
+    },
+    {
+      "query": "voluntarily causing hurt",
+      "tier": "Unknown",
+      "gt": "\u00a7323: 323. Mischief.\nWhoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change i...",
+      "retrieved": "\u00a7321: 321. Voluntarily causing hurt.\nWhoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does ther..."
+    }
+  ],
+  "qr": []
+}

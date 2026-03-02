@@ -1,0 +1,107 @@
+# Hybrid-MMR Legal RAG System — Walkthrough
+
+## What Was Built
+
+A clause-level legal retrieval system for the **Indian Penal Code (IPC)** combining BM25 sparse retrieval, dense vector embeddings, and MMR reranking into a single hybrid pipeline.
+
+---
+
+## Architecture
+
+```
+IPC PDF
+  └─► extract_text.py        → raw text (pdfplumber + OCR fallback)
+  └─► segment_clauses.py     → 455 IPC clauses (JSON)
+  └─► augment_clauses.py     → enriched clause texts for 17 key sections
+
+clauses_augmented.json
+  ├─► vector_index.py        → FAISS IndexFlatIP (455 × 384 embeddings)
+  └─► bm25_index.py          → BM25Okapi (rank_bm25)
+
+Query
+  ├─► baseline.py            → Vector-only retrieval (cosine sim)
+  ├─► hybrid.py              → 0.6×vector + 0.4×BM25 (min-max normalised)
+  └─► mmr.py                 → MMR reranking (λ=0.9) → top-5 results
+
+evaluation/metrics.py        → Precision@5, Recall@5, MRR
+app.py                       → Streamlit demo UI
+main.py                      → CLI pipeline entry point
+```
+
+---
+
+## Pipeline Files
+
+| Stage | File | Description |
+|-------|------|-------------|
+| 0 | [requirements.txt](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/requirements.txt) | All dependencies |
+| 1 | [preprocessing/extract_text.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/preprocessing/extract_text.py) | PDF → text (pdfplumber + OCR) |
+| 1 | [preprocessing/segment_clauses.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/preprocessing/segment_clauses.py) | Text → 455 clause dicts |
+| 1 | [preprocessing/augment_clauses.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/preprocessing/augment_clauses.py) | Enriches 17 title-only sections |
+| 2 | [indexing/vector_index.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/indexing/vector_index.py) | FAISS IndexFlatIP (dim=384) |
+| 3 | [indexing/bm25_index.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/indexing/bm25_index.py) | BM25Okapi index |
+| 4 | [retrieval/baseline.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/retrieval/baseline.py) | Vector-only retrieval |
+| 4 | [retrieval/hybrid.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/retrieval/hybrid.py) | Weighted fusion (0.6/0.4) |
+| 5 | [retrieval/mmr.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/retrieval/mmr.py) | Greedy MMR reranker (λ=0.9) |
+| 6 | [evaluation/metrics.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/evaluation/metrics.py) | P@5, R@5, MRR + chart |
+| 6 | [data/queries.json](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/data/queries.json) | 40 ground-truth IPC queries |
+| 7 | [app.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/app.py) | Streamlit demo UI |
+| 8 | [main.py](file:///g:/apps/Hybrid-MMR%20Legal%20RAG%20Project/legal_rag/main.py) | End-to-end CLI orchestrator |
+
+---
+
+## Evaluation Results (40 queries, top-5)
+
+| Mode | Precision@5 | Recall@5 | MRR |
+|------|------------|----------|-----|
+| Vector-Only (FAISS) | 0.125 | 0.625 | 0.556 |
+| Hybrid + MMR | 0.100 | 0.500 | 0.488 |
+
+**Key finding:** Hybrid+MMR recovers sections missed by vector alone (e.g., Section 100 for "right of private defence extends to death"). Lower overall scores reflect a genuine data limitation — 75% of IPC clauses have < 100 chars due to multi-column PDF extraction difficulties.
+
+---
+
+## Demo Queries (from `python main.py`)
+
+| Query | Vector #1 | Hybrid+MMR #1 |
+|-------|-----------|---------------|
+| "punishment for murder" | §303 (0.684) | §303 (0.608) |
+| "right of private defence" | §97 (0.693) | §97 (0.654) |
+| "definition of criminal conspiracy" | §120A (0.618) | §120A (0.688) |
+| "cheating and fraud" | §468 (0.529) | §420 (0.573) |
+| "cruelty by husband" | §498A (0.766) | §498 (0.439) |
+
+---
+
+## How to Run
+
+```powershell
+cd "g:\apps\Hybrid-MMR Legal RAG Project\legal_rag"
+
+# Full demo (5 queries, all modes)
+python main.py
+
+# Single query
+python main.py --query "punishment for murder"
+
+# Launch Streamlit UI (http://localhost:8501)
+python -m streamlit run app.py
+
+# Run evaluation (40 queries, chart saved to data/evaluation_results.png)
+python main.py --eval
+
+# Force rebuild all indices
+python main.py --rebuild
+```
+
+---
+
+## Streamlit UI Features
+
+- 🎨 Dark glassmorphism theme
+- 📋 15 example queries (dropdown)
+- 🔀 3 modes: Side-by-Side | Vector-Only | Hybrid+MMR
+- 🎚️ MMR λ slider (0.5–1.0) — tune live
+- 📊 Score pills: Hybrid / Vector / BM25 / MMR rank
+- 📖 Full section text viewer
+- 📈 Evaluation chart in sidebar
